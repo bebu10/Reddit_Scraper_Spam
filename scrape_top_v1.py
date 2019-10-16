@@ -8,11 +8,11 @@ import time
 
 common_spammy_words = ['udemy','course','save','coupon','free','discount']
 
-reddit = praw.Reddit(client_id  = '6ljdJ2YALa49jQ',
-                     client_secret  =  '5_7iHahDChksFgdAmlpivYNAs6Q',
-                     username  =  'yashgadodia',
-                     password  =  'sheyaruke',
-                     user_agent  =  'bebuprogrammingv1')
+reddit = praw.Reddit(client_id  = 'input here',
+                     client_secret  =  'input here',
+                     username  =  'input here',
+                     password  =  'input here',
+                     user_agent  =  'input here')
 
 ##subreddit = reddit.subreddit('python')
 
